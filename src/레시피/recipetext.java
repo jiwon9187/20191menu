@@ -150,7 +150,7 @@ public class recipetext extends JFrame implements ActionListener{
 			}
 		}else if(e.getSource() == home)
 		{
-			//home버튼 눌럿을때 메뉴선택 창으로 돌아감
+			
 		}
 		
 	}

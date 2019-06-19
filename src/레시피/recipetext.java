@@ -1,4 +1,3 @@
-package ·¹½ÃÇÇ;
 
 import java.awt.BorderLayout;
 import java.awt.Button;
